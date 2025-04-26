@@ -1,2 +1,6 @@
 # SuperProf_Alunos
-Exercícios Varios
+Este repositório reúne exercícios variados de Matemática, Física e aplicações práticas, desenvolvidos para apoiar o aprendizado dos meus alunos da plataforma SuperProf.
+O objetivo é oferecer materiais de reforço, revisões temáticas e desafios que estimulem o raciocínio lógico e a autonomia nos estudos.
+
+# Exercícios Varios
+
