@@ -4,3 +4,4 @@ O objetivo é oferecer materiais de reforço, revisões temáticas e desafios qu
 
 # Exercícios Varios
 
+- [Website](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
