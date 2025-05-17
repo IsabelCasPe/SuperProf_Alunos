@@ -19,7 +19,7 @@ Os materiais estão organizados por área temática:
   - [CalculoIaula1.ipynb](CalculoIaula1.ipynb): Introdução a limites, derivadas e integrais.
   - [vetoresCalculo1.ipynb](vetoresCalculo1.ipynb): Operações com vetores no espaço.
   - [Trabalho01.ipynb](Trabalho01.ipynb): Cálculo de trabalho usando integrais.
-  - [Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf](pdfs/Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf): Resoluções de *Um Curso de Cálculo 3*.
+  - [Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf](Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf): Resoluções de *Um Curso de Cálculo 3*.
 - **Álgebra Linear**
   - [Gauss.ipynb](Gauss.ipynb): Eliminação Gaussiana para sistemas lineares.
 - **Equações Diferenciais**
