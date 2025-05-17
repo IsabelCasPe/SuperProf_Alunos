@@ -1,7 +1,7 @@
 # SuperProf_Alunos: Materiais Didáticos de Matemática, Física e Aplicações
 
 🌟 **Bem-vindo ao SuperProf_Alunos** 🌟  
-Criado pela **Prof. Ana Isabel Castillo**, este repositório é um acervo de **materiais didáticos** desenvolvidos para alunos da plataforma SuperProf, abrangendo **Matemática**, **Física** e suas aplicações em **Finanças** e **Engenharia**. Com notebooks Jupyter e resoluções em PDF, o objetivo é oferecer exercícios práticos, revisões temáticas e desafios que estimulem o raciocínio lógico, a autonomia e a excelência acadêmica.
+Criado pela **Prof. Ana Isabel Castillo**, este repositório é um acervo de **materiais didáticos** desenvolvidos para alunos da plataforma SuperProf, abrangendo **Matemática**, **Física** e suas aplicações em **Finanças** e **Engenharia**. Com notebooks Jupyter e resoluções em PDF, o objetivo é oferecer exercícios práticos, revisões temáticas e desafios que estimulem o raciocínio lógico, a autonomia e a excelência acadêmica. 
 
 ## 🎯 Sobre o Repositório
 O **SuperProf_Alunos** reúne recursos pedagógicos para estudantes de diversos níveis, desde fundamentos de Cálculo e Física até tópicos avançados como Equações Diferenciais, Séries de Fourier e Sistemas Dinâmicos. Os materiais são organizados para:
