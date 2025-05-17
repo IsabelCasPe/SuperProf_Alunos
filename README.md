@@ -16,47 +16,47 @@ Os materiais estão organizados por área temática:
 
 ### Matemática
 - **Cálculo I e III**
-  - [CalculoIaula1.ipynb](notebooks/CalculoIaula1.ipynb): Introdução a limites, derivadas e integrais.
-  - [vetoresCalculo1.ipynb](notebooks/vetoresCalculo1.ipynb): Operações com vetores no espaço.
-  - [Trabalho01.ipynb](notebooks/Trabalho01.ipynb): Cálculo de trabalho usando integrais.
+  - [CalculoIaula1.ipynb](CalculoIaula1.ipynb): Introdução a limites, derivadas e integrais.
+  - [vetoresCalculo1.ipynb](vetoresCalculo1.ipynb): Operações com vetores no espaço.
+  - [Trabalho01.ipynb](Trabalho01.ipynb): Cálculo de trabalho usando integrais.
   - [Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf](pdfs/Hamilton_Luiz_Guidorizzi_Resolucoes_3.pdf): Resoluções de *Um Curso de Cálculo 3*.
 - **Álgebra Linear**
-  - [Gauss.ipynb](notebooks/Gauss.ipynb): Eliminação Gaussiana para sistemas lineares.
+  - [Gauss.ipynb](Gauss.ipynb): Eliminação Gaussiana para sistemas lineares.
 - **Equações Diferenciais**
-  - [EqEULER.ipynb](notebooks/EqEULER.ipynb): Solução de equações de Euler.
-  - [crescimento_de_uma_população1.ipynb](notebooks/crescimento_de_uma_população1.ipynb): EDOs simples aplicadas a crescimento populacional.
-  - [Lotka_Volterra.ipynb](notebooks/Lotka_Volterra.ipynb): Modelo predador-presa.
+  - [EqEULER.ipynb](EqEULER.ipynb): Solução de equações de Euler.
+  - [crescimento_de_uma_população1.ipynb](crescimento_de_uma_população1.ipynb): EDOs simples aplicadas a crescimento populacional.
+  - [Lotka_Volterra.ipynb](Lotka_Volterra.ipynb): Modelo predador-presa.
 - **Análise Numérica**
-  - [Funções.ipynb](notebooks/Funções.ipynb): Manipulação de funções matemáticas.
-  - [Manipulação_de_variáveis_e_constantes.ipynb](notebooks/Manipulação_de_variáveis_e_constantes.ipynb): Operações com variáveis.
-  - [Operações_Matemáticas.ipynb](notebooks/Operações_Matemáticas.ipynb): Operações básicas.
+  - [Funções.ipynb](Funções.ipynb): Manipulação de funções matemáticas.
+  - [Manipulação_de_variáveis_e_constantes.ipynb](Manipulação_de_variáveis_e_constantes.ipynb): Operações com variáveis.
+  - [Operações_Matemáticas.ipynb](Operações_Matemáticas.ipynb): Operações básicas.
 - **Séries de Fourier**
-  - [Ondaquadrada.ipynb](notebooks/Ondaquadrada.ipynb): Representação de funções periódicas.
-  - [Q1Q2_TFourier.pdf](pdfs/Q1Q2_TFourier.pdf): Resolução de exercícios Q1 e Q2.
+  - [Ondaquadrada.ipynb](Ondaquadrada.ipynb): Representação de funções periódicas.
+  - [Q1Q2_TFourier.pdf](Q1Q2_TFourier.pdf): Resolução de exercícios Q1 e Q2.
 - **Conjecturas**
-  - [ABCconjetura.ipynb](notebooks/ABCconjetura.ipynb): Introdução à Conjectura ABC.
-  - [goldbach.ipynb](notebooks/goldbach.ipynb): Exploração da Conjectura de Goldbach.
+  - [ABCconjetura.ipynb](ABCconjetura.ipynb): Introdução à Conjectura ABC.
+  - [goldbach.ipynb](goldbach.ipynb): Exploração da Conjectura de Goldbach.
 - **Probabilidade e Combinatória**
-  - [Diagramadelarbol.ipynb](notebooks/Diagramadelarbol.ipynb): Diagramas de árvore para probabilidade.
+  - [Diagramadelarbol.ipynb](Diagramadelarbol.ipynb): Diagramas de árvore para probabilidade.
 - **Lógica**
-  - [Operadores_lógicos_e_relacionais.ipynb](notebooks/Operadores_lógicos_e_relacionais.ipynb): Fundamentos de lógica matemática.
+  - [Operadores_lógicos_e_relacionais.ipynb](Operadores_lógicos_e_relacionais.ipynb): Fundamentos de lógica matemática.
 
 ### Física
 - **Mecânica**
-  - [4GraMRU.ipynb](notebooks/4GraMRU.ipynb): Movimento Retilíneo Uniforme.
-  - [MovimentoHarmonico.ipynb](notebooks/MovimentoHarmonico.ipynb): Movimento Harmônico Amortecido.
-  - [oscilador_harmônico_amortecido.ipynb](notebooks/oscilador_harmônico_amortecido.ipynb): Simulações de osciladores.
+  - [4GraMRU.ipynb](4GraMRU.ipynb): Movimento Retilíneo Uniforme.
+  - [MovimentoHarmonico.ipynb](MovimentoHarmonico.ipynb): Movimento Harmônico Amortecido.
+  - [oscilador_harmônico_amortecido.ipynb](oscilador_harmônico_amortecido.ipynb): Simulações de osciladores.
 - **Ondas e Física Moderna**
-  - [EqOnda.ipynb](notebooks/EqOnda.ipynb): Equação da onda e suas soluções.
-  - [EqSchrodinger.ipynb](notebooks/EqSchrodinger.ipynb): Equação de Schrödinger aplicada.
+  - [EqOnda.ipynb](EqOnda.ipynb): Equação da onda e suas soluções.
+  - [EqSchrodinger.ipynb](EqSchrodinger.ipynb): Equação de Schrödinger aplicada.
 
 ### Aplicações Práticas
 - **Controle Linear**
-  - [ControleLinearDB.ipynb](notebooks/ControleLinearDB.ipynb): Fundamentos de controle com aplicações.
+  - [ControleLinearDB.ipynb](ControleLinearDB.ipynb): Fundamentos de controle com aplicações.
 - **Programação Linear**
   - [OLinear (1).ipynb](notebooks/OLinear (1).ipynb): Resolução de problemas de otimização.
 - **Geometria Computacional**
-  - [polygono1.ipynb](notebooks/polygono1.ipynb): Manipulação de polígonos.
+  - [polygono1.ipynb](polygono1.ipynb): Manipulação de polígonos.
 
 📢 **Nota Legal:** Os materiais são compartilhados para fins educacionais sob licença [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Para outros usos, contate a autora (anacp20@gmail.com).
 
@@ -70,7 +70,7 @@ Os materiais estão organizados por área temática:
 - **Resoluções em PDF:**
   - Acesse os arquivos em [pdfs/](pdfs/) para estudar offline ou consultar exercícios resolvidos.
 - **Dicas de Estudo:**
-  - Comece pelos tópicos de fundamentos (ex.: [Operações_Matemáticas.ipynb](notebooks/Operações_Matemáticas.ipynb)) e avance para aplicações (ex.: [Lotka_Volterra.ipynb](notebooks/Lotka_Volterra.ipynb)).
+  - Comece pelos tópicos de fundamentos (ex.: [Operações_Matemáticas.ipynb](Operações_Matemáticas.ipynb)) e avance para aplicações (ex.: [Lotka_Volterra.ipynb](Lotka_Volterra.ipynb)).
   - Use os notebooks interativamente, ajustando parâmetros e testando exemplos.
 - **Acesse Online:** Em breve, visite (https://IsabelCasPe/SuperProf_Alunos/) 
 - **Feedback:** Envie dúvidas ou sugestões via [Issues](https://github.com/IsabelCasPe/SuperProf_Alunos/issues).
