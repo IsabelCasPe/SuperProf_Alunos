@@ -45,7 +45,7 @@ Os materiais estão organizados por área temática:
 - **Mecânica**
   - [4GraMRU.ipynb](4GraMRU.ipynb): Movimento Retilíneo Uniforme.
   - [MovimentoHarmonico.ipynb](MovimentoHarmonico.ipynb): Movimento Harmônico Amortecido.
-  - [oscilador_harmônico_amortecido.ipynb](oscilador_harmônico_amortecido.ipynb): Simulações de osciladores.
+  - [oscilador_harmônico_amortecido.ipynb](oscilador_harmônico_amortecido.ipynb): Simulações de osciladores. 
 - **Ondas e Física Moderna**
   - [EqOnda.ipynb](EqOnda.ipynb): Equação da onda e suas soluções.
   - [EqSchrodinger.ipynb](EqSchrodinger.ipynb): Equação de Schrödinger aplicada.
