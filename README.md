@@ -94,3 +94,8 @@ Este repositório é dedicado aos meus alunos da SuperProf, cuja curiosidade e d
 🌟 **Gostou? Deixe uma estrela no repositório e continue aprendendo com paixão!** 🌟
 
 - [Website SuperProf Isabel](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
+----
+## License
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+Copyright © 2025 Ana Isabel C. 
+© Ana Isabel 
