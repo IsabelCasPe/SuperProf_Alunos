@@ -97,5 +97,5 @@ Este repositório é dedicado aos meus alunos da SuperProf, cuja curiosidade e d
 ----
 ## License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-Copyright © 2025 Ana Isabel C. 
-© Ana Isabel 
+Copyright © Ana Isabel C. - 2025
+ 
