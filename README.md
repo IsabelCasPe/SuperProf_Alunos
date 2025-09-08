@@ -14,6 +14,17 @@ Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/))
 ## 📚 Conteúdo
 Os materiais estão organizados por área temática:
 
+## ✨ Triângulo de Pascal Animado
+
+O Triângulo de Pascal é uma das construções matemáticas mais fascinantes, revelando padrões infinitos a partir de uma estrutura simples.  
+Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matemática combina **beleza, ordem e criatividade**.  
+
+🎥 Veja a animação:  
+![Triângulo de Pascal](pascal_triangle.gif)
+
+🔗 Arquivo: [`pascal_triangle.py`](superprof/pascal_triangle/pascal_triangle.py) Só para Vips 
+---
+
 ### Matemática
 - **Cálculo I e III**
   - [CalculoIaula1.ipynb](CalculoIaula1.ipynb): Introdução a limites, derivadas e integrais.
