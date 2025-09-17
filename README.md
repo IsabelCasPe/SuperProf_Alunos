@@ -24,6 +24,7 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 
 🔗 Arquivo: [`pascal_triangle.py`](superprof/pascal_triangle/pascal_triangle.py) Só para Vips 
 ---
+![Terna Pitagórica](ternaPitagorica.png)
 
 ### Matemática
 - **Cálculo I e III**
