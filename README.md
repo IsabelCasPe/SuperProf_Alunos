@@ -110,4 +110,13 @@ Este repositório é dedicado aos meus alunos da SuperProf, cuja curiosidade e d
 ## License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 Copyright © Ana Isabel C. - 2025
+
+---
+## Inspiration.
+> "Com gratidão aos meus alunos, abro as portas do conhecimento @SuperProf_Alunos como professora, compartilho a clareza do cálculo e a beleza da matemática." 👩‍🏫📘📖✨🎓
+> Copyright © 2025 Prof. Ana Isabel C. 💙
+
+---
+
+
  
