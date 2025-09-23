@@ -1,4 +1,15 @@
-# SuperProf_Alunos: Materiais Didáticos de Matemática, Física e Aplicações
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## SuperProf_Alunos: Materiais Didáticos de Matemática, Física e Aplicações
 
 🌟 **Bem-vindo ao SuperProf_Alunos** 🌟  
 Criado pela **Prof. Ana Isabel Castillo**, este repositório é um acervo de **materiais didáticos** desenvolvidos para alunos da plataforma SuperProf, abrangendo **Matemática**, **Física** e suas aplicações em **Finanças** e **Engenharia**. Com notebooks Jupyter e resoluções em PDF, o objetivo é oferecer exercícios práticos, revisões temáticas e desafios que estimulem o raciocínio lógico, a autonomia e a excelência acadêmica. 
