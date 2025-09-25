@@ -24,7 +24,8 @@ Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/))
 
 ## 📚 Conteúdo
 Os materiais estão organizados por área temática:
-
+## 🎞️ Galeria de GIFs
+---
 ## ✨ Triângulo de Pascal Animado
 
 O Triângulo de Pascal é uma das construções matemáticas mais fascinantes, revelando padrões infinitos a partir de uma estrutura simples.  
@@ -34,8 +35,28 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 ![Triângulo de Pascal](pascal_triangle.gif)
 
 🔗 Arquivo: [`pascal_triangle.py`](superprof/pascal_triangle/pascal_triangle.py) Só para Vips 
+
+![Terna Pitagórica](ternaPitagorica.png) 
+
+
+![Função Quadrática](gifs/quadratic_growth.gif)  
+*Função Quadrática*
+
+![Saddle Surface Dynamic](gifs/saddle_surface_dynamic_vectors.gif)  
+*Saddle Surface Dynamic*
+
+![Oscilação Senoidal](gifs/sine_oscillation.gif) ![Hyperbolic Dynamics](gifs/hyperbolic_dynamics.gif)  
+*Oscilação Senoidal* · *Hyperbolic Dynamics*
+
+![Integral Indefinida](gifs/indefinite_integral.gif) ![Laplace (animação)](gifs/laplace_animation_quantum.gif)  
+*Integral Indefinida* · *Laplace (animação)*
+
+![Limite de função](gifs/limit_animation.gif) ![Derivada de uma função](gifs/derivative_animation.gif)  
+*Limite de função* · *Derivada de uma função*
+
+![Crescimento Exponencial](gifs/exponential_growth.gif) ![Integral Definida](gifs/definite_integral.gif) ![Continuidade](gifs/continuity_animation.gif)  
+*Crescimento Exponencial* · *Integral Definida* · *Continuidade de funções*
 ---
-![Terna Pitagórica](ternaPitagorica.png)
 
 ### Matemática
 - **Cálculo I e III**
