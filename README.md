@@ -39,23 +39,24 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 ![Terna Pitagórica](ternaPitagorica.png) 
 
 
-![Função Quadrática](gifs/quadratic_growth.gif)  
+![Função Quadrática](quadratic_growth.gif)  
 *Função Quadrática*
 
-![Saddle Surface Dynamic](gifs/saddle_surface_dynamic_vectors.gif)  
+![Saddle Surface Dynamic](saddle_surface_dynamic_vectors.gif)  
 *Saddle Surface Dynamic*
 
-![Oscilação Senoidal](gifs/sine_oscillation.gif) ![Hyperbolic Dynamics](gifs/hyperbolic_dynamics.gif)  
+![Oscilação Senoidal](sine_oscillation.gif) ![Hyperbolic Dynamics](hyperbolic_dynamics.gif)  
 *Oscilação Senoidal* · *Hyperbolic Dynamics*
 
-![Integral Indefinida](gifs/indefinite_integral.gif) ![Laplace (animação)](gifs/laplace_animation_quantum.gif)  
+![Integral Indefinida](indefinite_integral.gif) ![Laplace (animação)](laplace_animation_quantum.gif)  
 *Integral Indefinida* · *Laplace (animação)*
 
-![Limite de função](gifs/limit_animation.gif) ![Derivada de uma função](gifs/derivative_animation.gif)  
+![Limite de função](limit_animation.gif) ![Derivada de uma função](derivative_animation.gif)  
 *Limite de função* · *Derivada de uma função*
 
-![Crescimento Exponencial](gifs/exponential_growth.gif) ![Integral Definida](gifs/definite_integral.gif) ![Continuidade](gifs/continuity_animation.gif)  
+![Crescimento Exponencial](exponential_growth.gif) ![Integral Definida](definite_integral.gif) ![Continuidade](continuity_animation.gif)  
 *Crescimento Exponencial* · *Integral Definida* · *Continuidade de funções*
+
 ---
 
 ### Matemática
