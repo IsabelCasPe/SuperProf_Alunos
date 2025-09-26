@@ -36,8 +36,6 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 
 🔗 Arquivo: [`pascal_triangle.py`](superprof/pascal_triangle/pascal_triangle.py) Só para Vips 
 
-![Terna Pitagórica](ternaPitagorica.png) 
-
 
 ![Função Quadrática](quadratic_growth.gif)  
 *Função Quadrática*
@@ -45,17 +43,34 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 ![Saddle Surface Dynamic](saddle_surface_dynamic_vectors.gif)  
 *Saddle Surface Dynamic*
 
-![Oscilação Senoidal](sine_oscillation.gif) ![Hyperbolic Dynamics](hyperbolic_dynamics.gif)  
-*Oscilação Senoidal* · *Hyperbolic Dynamics*
+![Oscilação Senoidal](sine_oscillation.gif) 
+*Oscilação Senoidal*
 
-![Integral Indefinida](indefinite_integral.gif) ![Laplace (animação)](laplace_animation_quantum.gif)  
-*Integral Indefinida* · *Laplace (animação)*
+![Hyperbolic Dynamics](hyperbolic_dynamics.gif) 
+*Hyperbolic Dynamics*
 
-![Limite de função](limit_animation.gif) ![Derivada de uma função](derivative_animation.gif)  
-*Limite de função* · *Derivada de uma função*
+![Integral Indefinida](indefinite_integral.gif) 
+*Integral Indefinida* 
 
-![Crescimento Exponencial](exponential_growth.gif) ![Integral Definida](definite_integral.gif) ![Continuidade](continuity_animation.gif)  
-*Crescimento Exponencial* · *Integral Definida* · *Continuidade de funções*
+![Laplace (animação)](laplace_animation_quantum.gif)  
+*Laplace (animação)*
+
+![Limite de função](limit_animation.gif) 
+*Limite de função*
+
+![Derivada de uma função](derivative_animation.gif) 
+*Derivada de uma função*
+
+![Crescimento Exponencial](exponential_growth.gif) 
+*Crescimento Exponencial*
+
+![Integral Definida](definite_integral.gif) 
+*Integral Definida*
+
+![Continuidade](continuity_animation.gif)  
+*Continuidade de funções*
+
+![Terna Pitagórica](ternaPitagorica.png) 
 
 ---
 
