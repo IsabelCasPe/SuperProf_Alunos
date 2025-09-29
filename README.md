@@ -118,7 +118,7 @@ Nesta animação, cada linha nasce pela soma de vizinhos, mostrando como a matem
 - **Geometria Computacional**
   - [polygono1.ipynb](polygono1.ipynb): Manipulação de polígonos.
 
-📢 **Nota Legal:** Os materiais são compartilhados para fins educacionais sob licença [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Para outros usos, contate a autora (anacp20@gmail.com).
+📢 **Nota Legal:** Os materiais são compartilhados para fins educacionais sob licença [License MIT](https://creativecommons.org/licenses/MIT). Para outros usos, contate a autora (anacp20@gmail.com).
 
 ## 🚀 Como Usar
 - **Notebooks Jupyter:**
@@ -156,7 +156,7 @@ Este repositório é dedicado aos meus alunos da SuperProf, cuja curiosidade e d
 - [Website SuperProf Isabel](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
 ----
 ## License
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International LIcense MIT
 Copyright © Ana Isabel C. - 2025
 
 ---
