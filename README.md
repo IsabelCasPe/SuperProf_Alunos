@@ -24,6 +24,8 @@ O **SuperProf_Alunos** reúne recursos pedagógicos para estudantes de diversos 
 
 Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/)) e **resoluções em PDF** ([pdfs/](pdfs/)), todos licenciados sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) para uso educacional exclusivo.
 
+- ![MundoAcadêmico 🌍](IMPORTANTE.png)
+
 ## 📚 Conteúdo
 Os materiais estão organizados por área temática:
 ## 🎞️ Galeria de GIFs
