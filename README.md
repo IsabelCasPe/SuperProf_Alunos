@@ -30,6 +30,10 @@ Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/))
 Os materiais estão organizados por área temática:
 ## 🎞️ Galeria de GIFs
 ---
+## Quantum Tesseract Cube
+- ![Quantum cube](quantum_tesseract_twist.gif)
+
+---
 ## ✨ Triângulo de Pascal Animado
 
 O Triângulo de Pascal é uma das construções matemáticas mais fascinantes, revelando padrões infinitos a partir de uma estrutura simples.  
