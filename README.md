@@ -30,6 +30,9 @@ Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/))
 Os materiais estão organizados por área temática:
 ## 🎞️ Galeria de GIFs
 ---
+## Circunferência Unitária
+- ![Circunferencia unitária](circunferencia_unitaria_AULA_perfeita_17s.gif)
+---
 ## Quantum Tesseract Cube
 - ![Quantum cube](quantum_tesseract_twist.gif)
 
