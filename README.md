@@ -9,6 +9,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969) 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.19796-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.19796)
 [![Plain-Language Summary](https://img.shields.io/badge/summary-plain--language-2E8B57?logo=readme&logoColor=white)](https://gist.science/paper/2604.19796)
+[![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
 
