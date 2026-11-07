@@ -36,7 +36,7 @@ O **SuperProf_Alunos** reúne recursos pedagógicos para estudantes de diversos 
 Os arquivos estão divididos em **notebooks Jupyter** ([notebooks/](notebooks/)) e **resoluções em PDF** ([pdfs/](pdfs/)), todos licenciados sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) para uso educacional exclusivo.
 
 ----
-### 🌹 Parametric Rose Dynamics - Geometry in Bloom
+### 🌹 Parametric Rose Dynamics - Geometry in Bloom 
 - ![Parametric Rose Dynamics](rosa_parametrizada.png)
 
 [![Watch on YouTube](https://img.shields.io/badge/▶_Watch-Parametric_Rose_Dynamics-D4AF37?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cQhB-bOAmp4)
